@@ -2,7 +2,7 @@
 Coding challenge to create a small image search application using Unsplash and Pexels API. Built with Node, React, Express and Typescript.
 
 ### Demo:
-[![Alt text](https://img.youtube.com/vi/6hOFULTJ-JA/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID "Watch")
+[![Alt text](https://img.youtube.com/vi/6hOFULTJ-JA/0.jpg)](https://www.youtube.com/watch?v=6hOFULTJ-JA "Watch")
 
 
 # Getting Started 🚀
