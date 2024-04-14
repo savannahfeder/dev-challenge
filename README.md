@@ -1,6 +1,10 @@
 # Image Search App 📸
 Coding challenge to create a small image search application using Unsplash and Pexels API. Built with Node, React, Express and Typescript.
 
+### Demo:
+[![Alt text](https://img.youtube.com/vi/6hOFULTJ-JA/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID "Watch")
+
+
 # Getting Started 🚀
 To get the Image Search App up and running on your local machine, follow these steps:
 
